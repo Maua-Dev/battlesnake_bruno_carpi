@@ -238,3 +238,5 @@ Comece do Nível 1 implementando os `TODO`s em `src/logic.js`.
 ## 📞 Fale com a gente
 
 Dúvidas? Chama no [Discord](https://discord.gg/Yr2VPgAmcb) da Dev. Community Mauá.
+
+🐍🐍🐍🐍
